@@ -1,5 +1,5 @@
 # Battle Tactics Arena
-Battle Tactics Arena is a prototype for a turn-based tactics video game created using [LOVE](https://love2d.org/)--a free, open-source framework for developing 2D video game in Lua.
+Battle Tactics Arena is a prototype for a turn-based tactics video game created using [LOVE](https://love2d.org/)--a free, open-source framework for developing 2D video games in Lua.
 [Here](https://www.youtube.com/watch?v=pvOW3pUVcGA&t=2s) is a short video highlighting the game's features.
 
 # How to Play
